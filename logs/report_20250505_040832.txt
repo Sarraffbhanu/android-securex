@@ -1,0 +1,15 @@
+Root:
+False
+
+Dangerous Permissions:
+['RECORD_AUDIO']
+
+Suspicious Files:
+['/sdcard/Android/media/com.whatsapp/WhatsApp/.Shared/Zw7Dr+wjFyVi02GbrLQPE+K1AZkhGspYmakBNPUdeeU=.thumb.tmp', '/sdcard/Download/the-evolution-of-ddos-return-of-the-hacktivists.pdf', '/sdcard/Download/Advanced Ethical Hacking Intro.pdf']
+
+Outdated Apps:
+['com.facebook.katana (v130.0)', 'com.example.unknown']
+
+CVEs:
+['CVE-2023-XXXX: affects Android 5.15.148-android13-8-29832239', 'CVE-2024-YYYY: critical vuln']
+
